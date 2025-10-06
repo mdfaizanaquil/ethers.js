@@ -1,6 +1,4 @@
 Change Log
-==========
-
 This change log is maintained by `src.ts/_admin/update-changelog.ts` but may also be manually updated.
 
 ethers/v6.15.0 (2025-07-01 11:24)
