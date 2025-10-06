@@ -32,7 +32,6 @@ ethers/v6.14.1 (2025-05-15 14:17)
   - Fix JSON-RPC authorizationList signature entries encoded as DATA instead of QUANTITY values ([#4916](https://github.com/ethers-io/ethers.js/issues/4916); [135db72](https://github.com/ethers-io/ethers.js/commit/135db722756b81f44f55441e1e2d24ef4f85f216)).
 
 ethers/v6.14.0 (2025-05-06 22:02)
----------------------------------
 
   - Remove BlockscoutProvider temporarily until custom error issues are fixed ([805a8b3](https://github.com/ethers-io/ethers.js/commit/805a8b3aba26998a1e25055e9d3dd41c01ebbba0)).
   - EIP-7702 support ([#4916](https://github.com/ethers-io/ethers.js/issues/4916); [db490e1](https://github.com/ethers-io/ethers.js/commit/db490e1afaaa139be9cb38e6b50a1bc4ef28e075), [e7c1bdf](https://github.com/ethers-io/ethers.js/commit/e7c1bdf6f0a5d6f976dddd6375e76445ac6851fc)).
