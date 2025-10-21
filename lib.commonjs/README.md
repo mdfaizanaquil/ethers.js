@@ -1,5 +1,5 @@
 CommonJS Files
-==============
+
 
 The contents of this folder are for using `require` in CommonJS
 projects.
